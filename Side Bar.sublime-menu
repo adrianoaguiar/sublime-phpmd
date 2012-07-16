@@ -1,0 +1,3 @@
+[
+    { "caption": "PHPMD", "id": "phpmd", "command": "phpmd_sidebar", "args": {"paths": []} }
+]
